@@ -4,7 +4,7 @@
 # Unreal
 DerivedDataCache/
 Intermediate/
-
+Plugins/*/Intermediate/*
 Plugins/FMODStudio/Binaries/Win64/UE4Editor*
 Saved/
 Build/
@@ -14,7 +14,11 @@ Release/
 AutoBuildLogs/
 lfs/
 hooks/
+
+
 /Binaries/
+
+!Plugins/RTune_5.3/*
 
 # Wwise Project
 Wwise/IncrementalSoundBankData.xml
