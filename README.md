@@ -1,3 +1,0 @@
-# jerbobs-silly-jam
-
-we arent silly, we are seriously....
