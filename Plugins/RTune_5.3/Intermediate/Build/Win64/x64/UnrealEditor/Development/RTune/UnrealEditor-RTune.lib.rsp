@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RTune.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/GameJams/JerbalGJ/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/GameJams/JerbalGJ/Plugins/RTune_5.3/Intermediate/Build/Win64/x64/UnrealEditor/Development/RTune/Module.RTune.cpp.obj"
+"D:/GameJams/JerbalGJ/Plugins/RTune_5.3/Intermediate/Build/Win64/x64/UnrealEditor/Development/RTune/Default.rc2.res"
+/OUT:"D:/GameJams/JerbalGJ/Plugins/RTune_5.3/Intermediate/Build/Win64/x64/UnrealEditor/Development/RTune/UnrealEditor-RTune.lib"
