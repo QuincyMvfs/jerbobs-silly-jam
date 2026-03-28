@@ -1,8 +1,0 @@
-{
-	"BuildId": "47537391",
-	"Modules": 
-	{
-		"AsyncTickPhysics": "UnrealEditor-AsyncTickPhysics.dll",
-		"RTune": "UnrealEditor-RTune.dll"
-	}
-}
