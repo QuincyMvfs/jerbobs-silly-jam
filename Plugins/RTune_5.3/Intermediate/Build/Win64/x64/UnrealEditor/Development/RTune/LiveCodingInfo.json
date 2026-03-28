@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RTune.cpp.obj": [
+			"RTune.init.gen.cpp.obj",
+			"RTuneVehicle.gen.cpp.obj",
+			"SuspensionComponent.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"RTune.cpp.obj",
+			"RTuneVehicle.cpp.obj",
+			"SuspensionComponent.cpp.obj"
+		]
+	}
+}

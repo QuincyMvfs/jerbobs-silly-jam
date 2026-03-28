@@ -18,7 +18,7 @@ hooks/
 
 /Binaries/
 
-!Plugins/RTune_5.3/*
+!Plugins/RTune_5.3/**
 
 # Wwise Project
 Wwise/IncrementalSoundBankData.xml
