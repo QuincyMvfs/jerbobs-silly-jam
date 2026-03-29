@@ -8,5 +8,13 @@
 			"Name": "RawInput",
 			"Enabled": true
 		},
+		{
+			"Name": "ChaosCloth",
+			"Enabled": false
+		},
+		{
+			"Name": "ChaosInsights",
+			"Enabled": false
+		}
 	]
 }
