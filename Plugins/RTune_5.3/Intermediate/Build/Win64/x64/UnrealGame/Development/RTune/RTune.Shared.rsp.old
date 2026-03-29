@@ -1,5 +1,5 @@
 /I "."
-/I "C:/Users/Quincy M/Documents/SourceTree/GameJams/JerbobsSillyJam/Plugins/RTune_5.3/Source/ThirdParty/AsyncTickPhysics/Source/AsyncTickPhysics/Private"
+/I "C:/Users/Quincy M/Documents/SourceTree/GameJams/JerbobsSillyJam/Plugins/RTune_5.3/Source/RTune/Private"
 /I "../Intermediate/Build/Win64/UnrealGame/Inc/CoreUObject/UHT"
 /I "../Intermediate/Build/Win64/UnrealGame/Inc/CoreUObject/VerseVMBytecode"
 /I "Runtime/CoreUObject/Public"
@@ -118,7 +118,9 @@
 /I "C:/Users/Quincy M/Documents/SourceTree/GameJams/JerbobsSillyJam/Plugins/RTune_5.3/Intermediate/Build/Win64/UnrealGame/Inc/AsyncTickPhysics/UHT"
 /I "C:/Users/Quincy M/Documents/SourceTree/GameJams/JerbobsSillyJam/Plugins/RTune_5.3/Source"
 /I "C:/Users/Quincy M/Documents/SourceTree/GameJams/JerbobsSillyJam/Plugins/RTune_5.3/Source/ThirdParty/AsyncTickPhysics/Source/AsyncTickPhysics/Public"
-/I "C:/Users/Quincy M/Documents/SourceTree/GameJams/JerbobsSillyJam/Intermediate/Build/Win64/x64/TownTaxiTony/Development/Engine"
+/I "C:/Users/Quincy M/Documents/SourceTree/GameJams/JerbobsSillyJam/Plugins/RTune_5.3/Intermediate/Build/Win64/UnrealGame/Inc/RTune/UHT"
+/I "C:/Users/Quincy M/Documents/SourceTree/GameJams/JerbobsSillyJam/Plugins/RTune_5.3/Source/RTune/Public"
+/I "C:/Users/Quincy M/Documents/SourceTree/GameJams/JerbobsSillyJam/Intermediate/Build/Win64/x64/JimboGamo/Development/Engine"
 /external:W0
 /external:I "ThirdParty/GuidelinesSupportLibrary/GSL-1144/include"
 /external:I "ThirdParty/AtomicQueue"
